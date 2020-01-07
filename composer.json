@@ -23,10 +23,6 @@
             "type": "git",
             "url": "https://packagist.org"
         }
-    ],
-    "extra": {
-        "branch-alias": {
-            "dev-master": "master"
-        }
-    }
+    ]
+
 }
