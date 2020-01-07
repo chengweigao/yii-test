@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "php": "^7.0"
     },
     "autoload": {
         "psr-4": {
@@ -21,7 +21,12 @@
     "repositories":[
         {
             "type": "git",
-            "url": "https://github.com/chengweigao/yii-test.git"
+            "url": "https://packagist.org"
         }
-    ]
+    ],
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
 }
