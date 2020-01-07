@@ -1,0 +1,27 @@
+{
+    "name": "chengweigao/yii2-chengweigao",
+    "description": "测试",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "chengweigao",
+            "email": "448215986@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "chengweigao\\cwgdoc\\": ""
+        }
+    },
+    "repositories":[
+        {
+            "type": "git",
+            "url": "https://github.com/chengweigao/yii-test.git"
+        }
+    ]
+}
