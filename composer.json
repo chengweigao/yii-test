@@ -7,9 +7,6 @@
     "extension"
   ],
   "license": "Apache-2.0",
-  "support": {
-    "source": "https://github.com/chengweigao/yii-test"
-  },
   "authors": [
     {
       "name": "chengweigao",
